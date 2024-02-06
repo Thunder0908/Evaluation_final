@@ -1,2 +1,3 @@
-name = "Your Name"
+sname = "Your Name"
 print("My name is", name)
+yess
